@@ -1,7 +1,6 @@
 <h1 align="center">Olá 👋, Eu sou o Guilherme</h1>
 <h3 align="center">Busco desenvolver projetos para base sólida em desenvolvimento Full-Stack.</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=guinvs&label=Profile%20views&color=0e75b6&style=flat" alt="guinvs" /> </p>
 
 - E-mail **guilherme.alvescorp@outlook.com**
 
